@@ -1,0 +1,41 @@
+#task-logo{
+    width: 75px;
+    height: 75px;
+}
+.task-main-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(49, 49, 49);
+    color: rgb(251, 160, 80);
+}
+
+.task-left-section{
+    display: inline-flex;
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 7px;
+}
+
+#task-header{
+    margin: auto;
+    margin-left: 35px;
+    font-size: large;
+    font-weight: 500;
+}
+
+
+.task-right-section{
+    padding-right: 50px;
+    display: flex;
+}
+
+.task-right-section>button{
+    justify-content: center;
+    display: flex;
+    align-self: center;
+    width: 100px;
+    height: 32px;
+    font-size: 18px;
+    align-content: center;
+    flex-wrap: wrap;
+}

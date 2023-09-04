@@ -1,0 +1,23 @@
+
+
+
+
+.qb-pg-input{
+    width: 200px;
+    height: 32px;
+    font-size: medium;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#qb-pg-file{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+#qb-pg-btn{
+    background-color: brown;
+    color: aliceblue;
+}

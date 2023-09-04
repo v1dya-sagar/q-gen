@@ -1,0 +1,42 @@
+*{
+    margin: none;
+  
+  }
+  .log-main-box{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(49, 49, 49);
+  }
+  
+  .log-sub-box{
+    justify-content: center;
+    display: flex;
+  }
+  
+  .log-sub-box>form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+    background-color: aliceblue;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    margin-top: 80px;
+  }
+  
+  
+  .log-pg-input{
+    width: 200px;
+    height: 32px;
+    font-size: medium;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  #log-pg-btn{
+    background-color: brown;
+    color: aliceblue;
+    width: 120px;
+  }

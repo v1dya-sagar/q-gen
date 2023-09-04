@@ -1,0 +1,39 @@
+
+
+.qpinfo-main-box{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(49, 49, 49);
+}
+
+.qpinfo-sub-box{
+    justify-content: center;
+    display: flex;
+
+}
+
+.qpinfo-sub-box>form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+    background-color: aliceblue;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    margin-top: 80px;
+}
+
+.qpinfo-pg-input{
+  width: 200px;
+  height: 32px;
+  font-size: medium;
+  margin-top: 40px;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#qpinfo-pg-btn{
+    background-color: brown;
+    color: aliceblue;
+}
